@@ -1,0 +1,24 @@
+{
+  "name": "mobi-backend",
+  "version": "1.0.0",
+  "description": "backend for mobi app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uRTLy/MobiCTG-backend.git"
+  },
+  "author": "Patrick Tluszcz <patricktluszcz@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uRTLy/MobiCTG-backend/issues"
+  },
+  "homepage": "https://github.com/uRTLy/MobiCTG-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.3"
+  }
+}
